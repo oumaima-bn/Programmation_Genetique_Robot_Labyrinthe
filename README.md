@@ -120,7 +120,6 @@ In many cases, the system finds a strategy that lets the robot reach the exit. H
 Example of a path found by the robot (in blue) in a 7×7 maze:
 ![Path found by the robot in the maze](resultat_labyrinthe.jpg)
 
-![Path found by the robot in the maze](img.jpg)
 
 
 
