@@ -1,4 +1,4 @@
-# 🤖 Mobile Robot in a 7×7 Maze — Genetic Programming
+#  Mobile Robot in a 7×7 Maze — Genetic Programming
 
 Project by **Oumaima Bendjaj**
 Ibn Tofail University — Computer Science Department
