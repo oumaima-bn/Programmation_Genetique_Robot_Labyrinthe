@@ -1,4 +1,4 @@
-# 🤖 Robot mobile dans un labyrinthe 7×7 — Programmation génétique
+# Robot mobile dans un labyrinthe 7×7 — Programmation génétique
 
 Projet réalisé par **Oumaima Bendjaj**
 Université Ibn Tofail — Département d'Informatique
