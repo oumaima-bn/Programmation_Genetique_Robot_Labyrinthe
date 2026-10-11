@@ -50,7 +50,7 @@ Generation 12 | Best score = 1744
 ✅ Solution trouvée !
 ```
 
-If no solution is found after all generations, the message `Aucune solution complète trouvée` ("no complete solution found") is displayed. Simply run the program again (see [Limitations](#-limitations-and-possible-improvements)).
+If no solution is found after all generations, the message `Aucune solution complète trouvée` ("no complete solution found") is displayed. 
 
 ## 🧬 How the Algorithm Works
 
