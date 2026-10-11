@@ -118,7 +118,7 @@ Defined at the top of the file:
 In many cases, the system finds a strategy that lets the robot reach the exit. However, results are not guaranteed: genetic programming is a **probabilistic** method that depends on random initialization and on the generated maze.
 
 Example of a path found by the robot (in blue) in a 7×7 maze:
-![Path found by the robot in the maze](resultat_labyrinthe.jpg)
+![Path found by the robot in the maze](resultat_labyrinthe.JPG)
 
 
 
